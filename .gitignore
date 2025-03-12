@@ -48,6 +48,10 @@ models/*
 *.pkl
 *.joblib
 *.h5
+catboost_info/
+
+# Version Control
+.gitignore
 
 # OS specific
 .DS_Store
